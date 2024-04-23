@@ -2,6 +2,8 @@
 
 Welcome to the repository containing reports of exploratory testing sessions for Fandom. This repository contains insights gathered through hands-on exploration of the product, aimed at identifying bugs, usability issues, and potential improvements.
 
+## Contents
+- The **Templates** folder contains all the templates used during sessions.
 
 ## Reporting Guidelines
 
